@@ -29,14 +29,6 @@ Welcome to my little corner of GitHub! I'm a Bachelor of Science in Artificial I
 
 ---
 
-### 📊 GitHub Stats
-
-![Emaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaanzehra&show_icons=true&theme=radical)
-
-
-
----
-
 ### 🎯 Featured Interests
 
 * 🤖 **Artificial Intelligence** – logic building, automation, and data handling
