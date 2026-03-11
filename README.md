@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Pixel cat typing" />
+  <img src="https://media.giphy.com/media/W421NofT0mY5z1nmbk/giphy.gif" width="100" alt="Pixel sparkles" />
 </div>
 <br>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Emaan+Zehra+%E2%9C%A8;AI+Student+%7C+Python+%26+Java+Dev;Aspiring+AI+Engineer+%F0%9F%8C%B8" alt="Typing SVG" />
