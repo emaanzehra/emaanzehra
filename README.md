@@ -1,17 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=1200&color=7B9EC0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Emaan+Zehra+%E2%9C%A8;AI+Engineer+%7C+Healthcare+AI+Advocate;Building+software+that+heals+%F0%9F%A9%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=1200&color=7B9EC0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Emaan+Zehra+%E2%9C%A8;AI+Engineer+%7C+Healthcare+AI+Visionary;Building+software+that+heals+%F0%9F%A9%BA" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<p>
-  <em>
-    <font color="#F0E6D3">CS (AI) student shipping production systems at the intersection of intelligence and care.</font><br/>
-    <font color="#F0E6D3">My north star: AI in healthcare, where a model's output is a human outcome.</font>
-  </em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=17&pause=99999&color=E8D5B0&center=true&vCenter=true&width=800&lines=CS+(AI)+student+shipping+production+systems+at+the+intersection+of+intelligence+and+care.+%7C+My+north+star%3A+AI+in+healthcare." alt="Tagline" />
 
 <br/>
 
