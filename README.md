@@ -8,22 +8,22 @@
 
 <p>
   <em>
-    CS (AI) student shipping production systems at the intersection of intelligence and care.<br/>
-    My north star: AI in healthcare, where a model's output is a human outcome.
+    <font color="#F0E6D3">CS (AI) student shipping production systems at the intersection of intelligence and care.</font><br/>
+    <font color="#F0E6D3">My north star: AI in healthcare, where a model's output is a human outcome.</font>
   </em>
 </p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B9EC0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaanzehra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaanzehra)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E8829A?style=for-the-badge&logo=firefox&logoColor=white)](https://emaanzehra.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-6BBFB5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaanzehrabutt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-48B8A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaanzehrabutt@gmail.com)
 
 </div>
 
 ---
 
-## 🩺 About Me
+## ✨ About Me
 
 I'm an Artificial Intelligence student with 1+ year of hands-on experience shipping production-grade systems across **machine learning**, **computer vision**, and **full-stack development**.
 
@@ -33,8 +33,6 @@ I've shipped **three end-to-end systems**: an AI dental cavity detection tool us
 
 At **Google Developer Groups On Campus**, I led development across 6 Agile sprints, mentored 8 junior developers, ran ML and Generative AI workshops for 50+ participants, and automated CI/CD pipelines that cut deployment effort by 60% with zero production incidents.
 
-Currently applying for a **Duales Studium Informatik B.Sc.** in Germany (start 2026), combining university study with industry practice in software engineering and AI.
-
 > *"Write clean code, test everything, ship nothing broken."*
 
 ---
@@ -43,35 +41,35 @@ Currently applying for a **Duales Studium Informatik B.Sc.** in Germany (start 2
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-E8829A?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7B9EC0?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0C27F?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6BBFB5?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-7B9EC0?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-E8829A?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-6BBFB5?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4A90D9?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4A017?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-48B8A0?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-8B6BB1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-E07B54?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4E9A6F?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### AI / ML / Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F0C27F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D95F43?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E8829A?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6BBFB5?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-7B9EC0?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-F0C27F?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-E8829A?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6BBFB5?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-48B8A0?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-8B6BB1?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4A90D9?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-D4A017?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-E07B54?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frameworks and Engineering
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-7B9EC0?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6BBFB5?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-E8829A?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F0C27F?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7B9EC0?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4E9A6F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-48B8A0?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-C2587A?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-D95F43?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4A90D9?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps and Cloud
-![Docker](https://img.shields.io/badge/Docker-6BBFB5?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-F0C27F?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E8829A?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7B9EC0?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6BBFB5?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2E86C1?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-D4A017?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E07B54?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8B6BB1?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4E9A6F?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -119,10 +117,9 @@ A cloud-native Spring Boot microservice for live weather and AQI data.
 | Area | Status |
 |---|---|
 | 🩺 Healthcare AI -- ML for medical imaging and diagnostics | Active passion |
-| 🇩🇪 Duales Studium Informatik B.Sc. in Germany -- start 2026 | Applications open |
 | 🔥 PyTorch -- learning alongside TensorFlow | In progress |
 | 🧠 Deep learning architectures for computer vision | Exploring |
-| 🌐 German language -- A1 certified, B1 target Dec 2026 | Daily practice |
+| 🌐 New languages and frameworks | Always learning |
 
 ---
 
@@ -140,7 +137,7 @@ A cloud-native Spring Boot microservice for live weather and AQI data.
 
 ## 🎓 Education and Certifications
 
-- 🎓 **B.Sc. Computer Science -- Artificial Intelligence** | UIT University, Karachi | GPA 3.56/4.00 (German equiv. 1.6 Gut)
+- 🎓 **B.Sc. Computer Science -- Artificial Intelligence** | UIT University, Karachi | GPA 3.56/4.00
 - 📜 Google AI Essentials -- Coursera (2026)
 - 📜 Python for Everybody -- University of Michigan (2025)
 - 📜 Programming with Java (2025)
@@ -150,16 +147,16 @@ A cloud-native Spring Boot microservice for live weather and AQI data.
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1500&color=7B9EC0&center=true&vCenter=true&width=700&lines=AI+is+most+powerful+when+it+serves+the+most+human+needs.;The+best+models+are+the+ones+that+help+people+heal.;Clean+code.+Tested+systems.+Meaningful+impact." alt="Quote Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&pause=1500&color=F0C27F&center=true&vCenter=true&width=700&lines=AI+is+most+powerful+when+it+serves+the+most+human+needs.;The+best+models+are+the+ones+that+help+people+heal.;Clean+code.+Tested+systems.+Meaningful+impact." alt="Quote Typing SVG" />
 </a>
 
 <br/><br/>
 
-*Open to internships, collaborations, and conversations about AI in healthcare.*
-*If you are building something at that edge, I would like to talk.* ✨
+<font color="#F0E6D3"><em>Open to internships, collaborations, and conversations about AI in healthcare.</em></font><br/>
+<font color="#F0E6D3"><em>If you are building something at that edge, I would like to talk.</em></font> ✨
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-7B9EC0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaanzehra)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-4A90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaanzehra)
 
 </div>
