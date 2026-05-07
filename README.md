@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=1200&color=E8D5B0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Emaan+Zehra+%E2%9C%A8;AI+Engineer+%7C+Healthcare+AI+Visionary;Building+software+that+heals+%F0%9F%A9%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&pause=1200&color=E8D5B0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Emaan+Zehra+%F0%9F%8C%B8;AI+Engineer+%7C+Healthcare+AI+Visionary+%F0%9F%A9%BA;Building+software+that+heals+%F0%9F%92%AB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ---
 
-## ✨ About Me
+## 👩🏻‍💻 About Me
 
 I'm an Artificial Intelligence student with 1+ year of hands-on experience shipping production-grade systems across **machine learning**, **computer vision**, and **full-stack development**.
 
